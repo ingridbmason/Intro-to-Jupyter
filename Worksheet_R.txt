@@ -22,7 +22,7 @@ print(x, quote = FALSE)
 sum(1:19)
 
 x = c(3, 5, 8, 9)
-y = c(“Jack”,”Queen”,”King”)
+y = c('Jack','Queen','King')
 
 sum(x)
 
