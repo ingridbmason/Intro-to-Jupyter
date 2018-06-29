@@ -1,10 +1,10 @@
 # Let's go for a dip with Python
 
-# this is a string (markdown)
+# this is a string
 
 # this is a string
 
-_this is a string_ (markdown)
+_this is a string_ 
 
 print ("this is a string")
 
